@@ -8,7 +8,7 @@ sections:
   - block: resume-biography
     id: about
     content:
-      username: admin
+      username: me
       button:
         text: Download CV
         url: uploads/cv.pdf
