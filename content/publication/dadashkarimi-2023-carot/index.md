@@ -10,7 +10,7 @@ authors:
   - Raimundo Rodriguez
   - Brendan Adkinson
   - Jean Ye
-  - admin
+  - me
   - Chris Camp
   - Michael Farruggia
   - Link Tejavibulya

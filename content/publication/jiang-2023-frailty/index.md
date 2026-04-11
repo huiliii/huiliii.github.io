@@ -9,7 +9,7 @@ authors:
   - Corey Horien
   - Shile Qi
   - Qinghao Liang
-  - admin
+  - me
   - Vince D Calhoun
   - Dustin Scheinost
 date: "2023-01-01"

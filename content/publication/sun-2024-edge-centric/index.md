@@ -1,7 +1,7 @@
 ---
 title: "Edge-centric controllability of the human brain structural network"
 authors:
-  - admin
+  - me
   - Javid Dadashkarimi
   - Matthew Rosenblatt
   - Raimundo X. Rodriguez

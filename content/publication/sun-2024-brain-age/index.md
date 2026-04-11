@@ -1,7 +1,7 @@
 ---
 title: "Brain age prediction and deviations from normative trajectories in the neonatal connectome"
 authors:
-  - admin
+  - me
   - Saloni Mehta
   - Milana Khaitova
   - Bin Cheng

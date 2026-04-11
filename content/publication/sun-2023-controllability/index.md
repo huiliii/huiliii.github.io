@@ -1,7 +1,7 @@
 ---
 title: "Network controllability of structural connectomes in the neonatal brain"
 authors:
-  - admin
+  - me
   - Rongtao Jiang
   - Wei Dai
   - Alexander J. Dufford

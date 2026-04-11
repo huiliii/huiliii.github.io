@@ -1,7 +1,7 @@
 ---
 title: "White-matter controllability at birth predicts social engagement and language outcomes in toddlerhood"
 authors:
-  - admin
+  - me
   - Angelina Vernetti
   - Marisa Spann
   - Katarzyna Chawarska

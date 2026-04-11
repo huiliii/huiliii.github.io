@@ -16,7 +16,7 @@ authors:
   - Chris C. Camp
   - Link Tejavibulya
   - Brendan D. Adkinson
-  - admin
+  - me
   - Jean Ye
   - Qi Cheng
   - Marisa N. Spann

@@ -2,7 +2,7 @@
 title: "Altered Brain Dynamics Across Bipolar Disorder and Schizophrenia During Rest and Task-switching Revealed by Overlapping Brain States"
 authors:
   - Jean Ye
-  - admin
+  - me
   - Siyuan Gao
   - Javid Dadashkarimi
   - Matthew Rosenblatt

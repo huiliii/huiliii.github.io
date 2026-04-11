@@ -2,7 +2,7 @@
 title: "High-resolution in utero SV2A PET imaging of the nonhuman primate brain using the NeuroEXPLORER"
 authors:
   - Saloni Mehta*
-  - admin*
+  - me*
   - Nicola Micali
   - Daniel Holden
   - Krista Fowles

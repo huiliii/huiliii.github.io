@@ -1,7 +1,7 @@
 ---
 title: "Fetal network controllability co-develops with synaptic density and synchronizes with maternal network controllability during pregnancy"
 authors:
-  - admin
+  - me
   - Takuya Toyonaga
   - Saloni Mehta
   - Chris Camp

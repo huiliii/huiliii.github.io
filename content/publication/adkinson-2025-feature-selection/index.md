@@ -3,7 +3,7 @@ title: "Feature selection leads to divergent neurobiological interpretations of 
 authors:
   - Brendan D. Adkinson
   - Matthew Rosenblatt
-  - admin
+  - me
   - Javid Dadashkarimi
   - Link Tejavibulya
   - Corey Horien

@@ -3,7 +3,7 @@ title: "Power and reproducibility in the external validation of brain-phenotype 
 authors:
   - Matthew Rosenblatt
   - Link Tejavibulya
-  - admin
+  - me
   - Chris C. Camp
   - Milana Khaitova
   - Brendan D. Adkinson
