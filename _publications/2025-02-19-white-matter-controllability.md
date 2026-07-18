@@ -1,7 +1,7 @@
 ---
 title: "White-matter controllability at birth predicts social engagement and language outcomes in toddlerhood"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/white-matter-controllability
 date: 2025-02-19
 venue: "Under Revision in Translational Psychiatry"

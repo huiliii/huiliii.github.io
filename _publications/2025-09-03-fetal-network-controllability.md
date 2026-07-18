@@ -1,7 +1,7 @@
 ---
 title: "Fetal network controllability co-develops with synaptic density and synchronizes with maternal network controllability during pregnancy"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/fetal-network-controllability
 date: 2025-09-03
 venue: "Under Review in PNAS"
