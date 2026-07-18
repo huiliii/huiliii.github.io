@@ -26,16 +26,16 @@ author:
   avatar           : "profile.png"
   name             : "Huili Sun"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher in Bioengineering at the University of Pennsylvania"
-  location         : "Philadelphia, PA"
-  employer         : "University of Pennsylvania"
+  bio              : "Postdoctoral Researcher in the Department of Psychology at Yale University"
+  location         : "New Haven, CT"
+  employer         : "Yale University"
   uri              : # URL
   email            : "huili.sun@yale.edu"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # add your Google Scholar URL
+  googlescholar    : "https://scholar.google.com/citations?user=jNMfHuYAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # add your ORCID URL
