@@ -7,17 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in the Department of Bioengineering at the University of Pennsylvania, working with [Dr. Dani Bassett](https://complexsystemsupenn.com/). My research uses computational and network-based approaches to understand how the human brain develops during the earliest stages of life — from the fetal period through infancy and toddlerhood.
+I am a Postdoctoral Researcher in the Department of Psychology at the Yale University, working with [Dr. Dani Bassett](https://complexsystemsupenn.com/). My research uses computational and network-based approaches to understand how the human brain network develops to emerge intelligence.
 
-I draw on tools from **network control theory**, **connectomics**, and **machine learning** to study how brain network architecture emerges, how it supports early cognitive development, and how deviations from typical trajectories may relate to neurodevelopmental outcomes.
+I draw on tools from **network neuroscience** methods and **machine learning** models to study how brain network architecture emerges, how it supports early cognitive development, and how deviations from typical trajectories relate to neurodevelopmental risks.
 
 I completed my PhD in Biomedical Engineering at Yale University, advised by [Dr. Dustin Scheinost](https://scheinostlab.yale.edu/). Before that, I received my BS from the University of Electronic Science and Technology of China (UESTC).
 
 Research
 ======
+My research interests primarily lie in the intersection between network neuroscience and developmental cognitive science. The main goals of my research are:
 
-**Network controllability in the developing brain.** I use control-theoretic frameworks to characterize how structural brain networks in neonates and fetuses can drive transitions between neural states. This work has shown how controllability properties of white-matter networks at birth predict later social and language outcomes.
+**Development of brain networks in early childhood**: to understand how the developing brain supports the emergence of cognition and behavior, from the fetal period through preschool age, using network-based models and normative modeling
 
-**Brain age and normative modeling.** I develop computational models to predict brain age from neonatal connectomes and identify deviations from normative developmental trajectories. These deviations relate to maternal factors and predict later cognitive performance.
+**Individual deviations and developmental risk**: to investigate how early deviations in brain development relate to adverse developmental outcomes and neurodevelopmental disorders.
 
-**Fetal–maternal brain interactions.** My recent work explores how fetal network controllability co-develops with synaptic density and synchronizes with maternal brain controllability during pregnancy, bridging prenatal neurobiology with postnatal developmental outcomes.
+**Network intelligence and brain-inspired AI**: to study how network structure reconfigures during learning, in both biological and artificial systems, to give rise to intelligent behavior.
+
+
+
+
