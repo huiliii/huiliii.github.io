@@ -87,7 +87,7 @@ publication_category:
   preprints:
     title: 'Preprints & Under Review'
   manuscripts:
-    title: 'Peer-Reviewed Journal Articles'
+    title: 'Selected Peer-Reviewed Journal Articles'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
