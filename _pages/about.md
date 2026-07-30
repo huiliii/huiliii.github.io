@@ -11,7 +11,7 @@ I am a Postdoctoral Researcher in the Department of Psychology at the Yale Unive
 
 I draw on tools from **network neuroscience** methods and **machine learning** models to study how brain network architecture emerges, how it supports early cognitive development, and how deviations from typical trajectories relate to neurodevelopmental risks.
 
-I completed my PhD in Biomedical Engineering at Yale University, advised by [Dr. Dustin Scheinost](https://scheinostlab.yale.edu/). Before that, I received my BS from the University of Electronic Science and Technology of China (UESTC).
+I completed my PhD in Biomedical Engineering at Yale University, advised by [Dr. Dustin Scheinost](https://medicine.yale.edu/profile/dustin-scheinost/). Before that, I received my BS from the University of Electronic Science and Technology of China (UESTC), where I worked with [Dr. Shi Gu](https://guslab.org/).
 
 Research
 ======
