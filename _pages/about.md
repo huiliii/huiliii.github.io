@@ -13,6 +13,10 @@ I draw on tools from **network neuroscience** methods and **machine learning** m
 
 I completed my PhD in Biomedical Engineering at Yale University, advised by [Dr. Dustin Scheinost](https://medicine.yale.edu/profile/dustin-scheinost/). Before that, I received my BS from the University of Electronic Science and Technology of China (UESTC), where I worked with [Dr. Shi Gu](https://guslab.org/).
 
+News
+======
+{% include news.html limit=8 %}
+
 Research
 ======
 My research interests primarily lie in the intersection between network neuroscience and developmental cognitive science. The main goals of my research are:
