@@ -1,36 +1,18 @@
 # News items shown on the front page, newest first.
 # Each item needs a `date` (any text, e.g. "Oct 2026" or "2026") and `text` (Markdown is allowed).
-# The front page shows the first `news_limit` items (set in _pages/about.md).
+# The front page shows the first `news_limit` items (set in _pages/about.md); the rest go under "Older news".
+
+- date: "Oct 2026"
+  text: "Selected as a **Rising Star in Data Science** at the University of Chicago."
+
+- date: "Oct 2026"
+  text: "Awarded a **NARSAD Young Investigator Grant** from the Brain & Behavior Research Foundation."
 
 - date: "Jun 2026"
-  text: "New preprint: *Development of the cognitive energy landscape from infancy to adolescence*, with Isabella Stallworthy, Dustin Scheinost, and Dani Bassett. [[Link]](https://doi.org/10.64898/2026.06.17.732977)"
+  text: "New preprint: *Development of the cognitive energy landscape from infancy to adolescence*. [[Link]](https://doi.org/10.64898/2026.06.17.732977)"
 
 - date: "Apr 2026"
   text: "Selected as a **Rising Star in Computational and Data Sciences** (UT Austin Oden Institute) and gave a talk at the workshop in Santa Fe, NM."
 
-- date: "2026"
-  text: "Awarded a **NARSAD Young Investigator Grant** from the Brain & Behavior Research Foundation."
-
-- date: "2026"
-  text: "Selected as a **Rising Star in Data Science** at the University of Chicago."
-
-- date: "2026"
-  text: "Our paper on feature selection and brain-based machine learning biomarkers is out in *Nature Human Behaviour*."
-
-- date: "2026"
+- date: "Jan 2026"
   text: "Co-first-author paper on high-resolution in utero SV2A PET imaging is out in the *Journal of Cerebral Blood Flow and Metabolism*."
-
-- date: "2026"
-  text: "*White-matter controllability at birth predicts social engagement and language outcomes in toddlerhood* was accepted in *Translational Psychiatry*."
-
-- date: "Dec 2025"
-  text: "Gave talks at FIT'NG Together Events and the HBCD monthly site meeting."
-
-- date: "Oct 2025"
-  text: "Started as a Postdoctoral Associate in the [Complex Systems Lab](https://complexsystemsupenn.com/) with Dr. Dani Bassett, and gave a guest lecture in Network Neuroscience at the University of Pennsylvania."
-
-- date: "Sep 2025"
-  text: "Completed my PhD in Biomedical Engineering at Yale, and presented on fetal and infant controllability at FIT'NG 2025 in Dublin."
-
-- date: "2025"
-  text: "Received the **Wharton Summer Fellowship** from the Nathaniel Wharton Fund."
